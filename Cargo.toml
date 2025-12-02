@@ -1,0 +1,13 @@
+#![allow(unused_parens)]
+
+[package]
+name = "cpp"
+version = "0.1.0"
+edition = "2024"
+authors = ["space cowboy <spacecowboy@fluffnet.org>"] 
+description = "Package manager for c++"
+license = "MIT"
+
+[dependencies]
+clap = { version = "4.5.53", features = ["derive"] }
+colored = "3.0.0"
