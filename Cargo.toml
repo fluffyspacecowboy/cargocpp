@@ -1,7 +1,7 @@
 #![allow(unused_parens)]
 
 [package]
-name = "cpp"
+name = "cargocpp"
 version = "0.1.0"
 edition = "2024"
 authors = ["space cowboy <spacecowboy@fluffnet.org>"] 
